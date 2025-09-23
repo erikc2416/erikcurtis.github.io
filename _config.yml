@@ -85,7 +85,7 @@ social:
     share: true
 
   - name: Google Scholar
-    icon: linkedin
+    icon: google-scholar
     username: 
     url: https://scholar.google.com/citations?user=HTbN3koAAAAJ&hl=en
     desc: My latest papers
