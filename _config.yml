@@ -10,14 +10,11 @@ exclude:
 
 # Site settings
 title: Erik M. Curtis
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+subtitle: "Salmon conservation, eDNA, and epidemiology!"
 email: erik.curtis@utoronto.ca
 name: Erik Curtis
 description: >
-#  A simple yet classy theme for your Jekyll website or blog.
-# Base URL of site (i.e. /blog). It should always start with a slash,
-# and never end with a slash. Set it to a blank value if hosting at the
-# root of your server.
+Krkosek Lab - University of Toronto Ecology & Evolutionary Biology
 baseurl: "/erikcurtis.github.io" # the subpath of your site, e.g. /blog/
 url: "erikc2416.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
